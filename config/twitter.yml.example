@@ -1,0 +1,5 @@
+USERNAME: 'dpl_dave'
+TWITTER_CONSUMER_KEY: 'consumer key'
+TWITTER_CONSUMER_SECRET: 'consumer secret'
+TWITTER_ACCESS_TOKEN: 'access token'
+TWITTER_ACCESS_TOKEN_SECRET: 'token secret'
