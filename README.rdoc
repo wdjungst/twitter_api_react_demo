@@ -1,2 +1,4 @@
 == TODO
-  <tt>Refactor using flux for posting without reloading all components</tt>
+  - Refactor using flux for posting without reloading all components
+  - Clear search results when input is empty
+  - Show Avatar on hover of search results
